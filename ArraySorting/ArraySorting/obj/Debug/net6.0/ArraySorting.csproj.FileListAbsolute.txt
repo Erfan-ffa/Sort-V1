@@ -1,0 +1,15 @@
+C:\AliBaba\ErfanFFA\Projects\Exercises\ArraySorting\ArraySorting\bin\Debug\net6.0\ArraySorting.exe
+C:\AliBaba\ErfanFFA\Projects\Exercises\ArraySorting\ArraySorting\bin\Debug\net6.0\ArraySorting.deps.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\ArraySorting\ArraySorting\bin\Debug\net6.0\ArraySorting.runtimeconfig.json
+C:\AliBaba\ErfanFFA\Projects\Exercises\ArraySorting\ArraySorting\bin\Debug\net6.0\ArraySorting.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\ArraySorting\ArraySorting\bin\Debug\net6.0\ref\ArraySorting.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\ArraySorting\ArraySorting\bin\Debug\net6.0\ArraySorting.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.csproj.AssemblyReference.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\AliBaba\ErfanFFA\Projects\Exercises\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.AssemblyInfoInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.AssemblyInfo.cs
+C:\AliBaba\ErfanFFA\Projects\Exercises\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.csproj.CoreCompileInputs.cache
+C:\AliBaba\ErfanFFA\Projects\Exercises\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\ArraySorting\ArraySorting\obj\Debug\net6.0\ref\ArraySorting.dll
+C:\AliBaba\ErfanFFA\Projects\Exercises\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.pdb
+C:\AliBaba\ErfanFFA\Projects\Exercises\ArraySorting\ArraySorting\obj\Debug\net6.0\ArraySorting.genruntimeconfig.cache
